@@ -38,7 +38,7 @@ jobs:
           go get -v github.com/projectdiscovery/naabu/v2/cmd/naabu
           go get -v github.com/projectdiscovery/httpx/cmd/httpx
           go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
-#           go get -v github.com/projectdiscovery/notify/cmd/notify
+          go get -v github.com/projectdiscovery/notify/cmd/notify
         shell: bash
 
       - name: Running SubFinder for passive DNS enumeration
@@ -67,18 +67,16 @@ jobs:
           httpx -l output/active_ports.txt | tee output/active_urls.txt
         shell: bash
 
-      - name: Downloading Nuclei Templates
-        run: |
-          nuclei -update-templates
-        shell: bash
+      - name: Nuclei Scan
+        uses: projectdiscovery/nuclei-action@v1.0.2
+        with:
+          urls: output/active_urls.txt
+          output: output/nuclei_output.txt
+          templates: ./nuclei-templates/cves/
 
-      - name: Running Nuclei for vulnerability assessment
+      - name: Notify Alerts
         run: |
-          nuclei -t cves/ -l output/active_urls.txt -bs 100 -c 50 -rl 300 -nc | tee output/nuclei_output.txt
-        shell: bash
-
-#     For posting results to slack/discord/telegram
-#          notify -slack -slack-webhook-url ${{ secrets.SLACK_WEBHOOK }} -slack-username notify
+          notify -slack -slack-webhook-url ${{ secrets.SLACK_WEBHOOK }} < output/nuclei_output.txt
 
       - name: Sorting the output results
         run: |
