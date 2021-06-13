@@ -69,11 +69,10 @@ jobs:
         shell: bash
 
       - name: Nuclei Scan
-        uses: projectdiscovery/nuclei-action@v1.0.2
+        uses: projectdiscovery/nuclei-action@main
         with:
           urls: output/active_urls.txt
           output: output/nuclei_output.txt
-          templates: ./nuclei-templates/cves/
 
       - name: Notify Alerts
         run: |
