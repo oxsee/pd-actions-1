@@ -3,7 +3,6 @@ name: pd-actions
 on:
 #    schedule:
 #      - cron: '0 0 * * *'
-# Remove both comments to run this action on daily basis.
     workflow_dispatch:
 
 jobs:
@@ -16,7 +15,7 @@ jobs:
       - name: Setup golang
         uses: actions/setup-go@v2
         with:
-          go-version: 1.14
+          go-version: 1.15
 
       - name: Setup Dependencies
         run: sudo apt-get install libpcap-dev # Required for Naabu
@@ -33,19 +32,19 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
           go get -v github.com/projectdiscovery/dnsx/cmd/dnsx
           go get -v github.com/projectdiscovery/naabu/v2/cmd/naabu
           go get -v github.com/projectdiscovery/httpx/cmd/httpx
-          go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
           go get -v github.com/projectdiscovery/notify/cmd/notify
 #          go get -v github.com/projectdiscovery/cloudlist/cmd/cloudlist
         shell: bash
 
-      - name: Running SubFinder for passive DNS enumeration
-        run: |
-          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o output/passive_subdomains.txt
-        shell: bash
+      - name: 🔎 SubFinder - DNS Enumeration
+        uses: projectdiscovery/subfinder-action@main
+        with:
+          list: input/domains.txt
+          config: config/subfinder-config.yaml
+          output: output/passive_subdomains.txt
 
       - name: Running dnsx for valid DNS filtering 
         run: |
@@ -68,7 +67,7 @@ jobs:
           httpx -l output/active_ports.txt | tee output/active_urls.txt
         shell: bash
 
-      - name: Nuclei Scan
+      - name: Nuclei - DAST Scan
         uses: projectdiscovery/nuclei-action@main
         with:
           urls: output/active_urls.txt
