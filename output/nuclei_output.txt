@@ -1,0 +1,482 @@
+[2021-06-21 15:03:04] [aws-bucket-service] [http] [info] http://after-sales.oppo.com
+[2021-06-21 15:03:04] [aws-bucket-service] [http] [info] http://bbs.oppo.com
+[2021-06-21 15:03:04] [aws-bucket-service] [http] [info] http://bbs.oppo.com:8080
+[2021-06-21 15:03:04] [nginx-version] [http] [info] http://eurwarranty.oppo.com [nginx]
+[2021-06-21 15:03:05] [aws-bucket-service] [http] [info] http://after-sales.address.oppo.com
+[2021-06-21 15:03:05] [aws-bucket-service] [http] [info] http://gkm-s3cdn-sg.oppo.com
+[2021-06-21 15:03:05] [nginx-version] [http] [info] http://cloud-test.oppo.com [nginx]
+[2021-06-21 15:03:06] [aws-bucket-service] [http] [info] http://gkm-s3cdn-sg.oppo.com:8080
+[2021-06-21 15:03:06] [nginx-version] [http] [info] http://find.yun.oppo.com [nginx]
+[2021-06-21 15:03:06] [nginx-version] [http] [info] http://findv1.oppo.com [nginx]
+[2021-06-21 15:03:07] [nginx-version] [http] [info] http://iwarranty.oppo.com [nginx]
+[2021-06-21 15:03:07] [nginx-version] [http] [info] http://liveapi.oppo.com [nginx]
+[2021-06-21 15:03:08] [aws-bucket-service] [http] [info] http://ipics.oppo.com
+[2021-06-21 15:03:13] [nginx-version] [http] [info] http://ieurwarranty.oppo.com [nginx]
+[2021-06-21 15:03:14] [nginx-version] [http] [info] http://m-insights.oppo.com [nginx]
+[2021-06-21 15:03:21] [generic-tokens] [http] [info] http://pre-insights.oppo.com [key=WCWBZ-QAQKF-4SPJP-J5ZLX-S5YH6-C6BFG"]
+[2021-06-21 15:03:21] [nginx-version] [http] [info] http://pre-insights.oppo.com [nginx]
+[2021-06-21 15:03:24] [aws-bucket-service] [http] [info] https://after-sales.address.oppo.com
+[2021-06-21 15:03:24] [aws-bucket-service] [http] [info] https://after-sales.oppo.com
+[2021-06-21 15:03:24] [aws-bucket-service] [http] [info] https://bbs.oppo.com
+[2021-06-21 15:03:24] [nginx-version] [http] [info] https://bdev-pre.oppo.com [nginx]
+[2021-06-21 15:03:24] [nginx-version] [http] [info] https://bdev.oppo.com [nginx]
+[2021-06-21 15:03:24] [nginx-version] [http] [info] https://career.oppo.com [nginx]
+[2021-06-21 15:03:25] [nginx-version] [http] [info] http://sgp-sow-cms.oppo.com [nginx]
+[2021-06-21 15:03:25] [nginx-version] [http] [info] https://bshop.oppo.com [nginx]
+[2021-06-21 15:03:25] [nginx-version] [http] [info] https://business.oppo.com [nginx]
+[2021-06-21 15:03:25] [nginx-version] [http] [info] https://cloud.oppo.com [nginx]
+[2021-06-21 15:03:25] [nginx-version] [http] [info] https://eurwarranty.oppo.com [nginx]
+[2021-06-21 15:03:26] [aws-bucket-service] [http] [info] https://gkm-s3cdn-sg.oppo.com
+[2021-06-21 15:03:26] [nginx-version] [http] [info] https://cloud-test.oppo.com [nginx]
+[2021-06-21 15:03:26] [nginx-version] [http] [info] https://find.oppo.com [nginx]
+[2021-06-21 15:03:26] [nginx-version] [http] [info] https://find.yun.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] http://uc.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://chat-support.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://findv1.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://gkm.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://go.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://gray-push-intl.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://hd.oppo.com [nginx]
+[2021-06-21 15:03:27] [nginx-version] [http] [info] https://ieurwarranty.oppo.com [nginx]
+[2021-06-21 15:03:28] [aws-bucket-service] [http] [info] https://ipics.oppo.com
+[2021-06-21 15:03:28] [generic-tokens] [http] [info] https://insights.oppo.com [key=WCWBZ-QAQKF-4SPJP-J5ZLX-S5YH6-C6BFG"]
+[2021-06-21 15:03:28] [nginx-version] [http] [info] https://i.warranty.oppo.com [nginx]
+[2021-06-21 15:03:28] [nginx-version] [http] [info] https://insights.oppo.com [nginx]
+[2021-06-21 15:03:28] [nginx-version] [http] [info] https://iwarranty.oppo.com [nginx]
+[2021-06-21 15:03:28] [nginx-version] [http] [info] https://liveapi.oppo.com [nginx]
+[2021-06-21 15:03:28] [nginx-version] [http] [info] https://m-insights.oppo.com [nginx]
+[2021-06-21 15:03:30] [generic-tokens] [http] [info] https://opsg-payapi-in.oppo.com [token":"1500311c1c8e42128a1c40d880fdc130"]
+[2021-06-21 15:03:30] [generic-tokens] [http] [info] https://pre-insights.oppo.com [key=WCWBZ-QAQKF-4SPJP-J5ZLX-S5YH6-C6BFG"]
+[2021-06-21 15:03:30] [nginx-version] [http] [info] https://par-sow-cms.oppo.com [nginx]
+[2021-06-21 15:03:30] [nginx-version] [http] [info] https://pop.oppo.com [nginx/1.16.1]
+[2021-06-21 15:03:30] [nginx-version] [http] [info] https://pre-insights.oppo.com [nginx]
+[2021-06-21 15:03:31] [default-nginx-page] [http] [info] https://wx.oppo.com
+[2021-06-21 15:03:31] [nginx-version] [http] [info] https://push-intl.oppo.com [nginx]
+[2021-06-21 15:03:31] [nginx-version] [http] [info] https://push.oppo.com [nginx]
+[2021-06-21 15:03:31] [nginx-version] [http] [info] https://sgp-sow-cms.oppo.com [nginx]
+[2021-06-21 15:03:31] [nginx-version] [http] [info] https://wx.oppo.com [nginx]
+[2021-06-21 15:03:33] [nginx-version] [http] [info] https://id.oppo.com [nginx]
+[2021-06-21 15:03:37] [nginx-version] [http] [info] https://sow-cms.oppo.com [nginx]
+[2021-06-21 15:04:17] [sap-web-dispatcher-detection] [http] [info] https://drm.oppo.com/inormalydonotexist
+[2021-06-21 15:09:28] [springboot-actuator:favicon] [http] [info] https://find.oppo.com/favicon.ico
+[2021-06-21 15:09:37] [springboot-actuator:favicon] [http] [info] https://otrans.oppo.com/favicon.ico
+[2021-06-21 15:10:53] [sap-web-dispatcher-admin-portal] [http] [info] https://drm.oppo.com/sap/wdisp/admin/public/default.html
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://cloud.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://eurwarranty.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://findphone.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://gkm.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://global.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://gray-push-intl.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://htsg-storeapi-sg.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://i.theme.exapi.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://i.warranty.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://icontact.exapi.oppo.com:443
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://id.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://ieurwarranty.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://im.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://isms.exapi.oppo.com:443
+[2021-06-21 15:18:46] [nameserver-detection:aws-route53] [dns] [info] http://iwarranty.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:cloudflare] [dns] [info] http://community.oppo.com
+[2021-06-21 15:18:46] [nameserver-detection:cloudflare] [dns] [info] http://community.oppo.com:8443
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://o-doctor.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://o-doctor.oppo.com:443
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://oldcms.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://par-sow-cms.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://push-intl.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://security.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://sgp-sow-cms.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://shop.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://uc.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:aws-route53] [dns] [info] http://uc.oppo.com:443
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-api-in.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-api-in.oppo.com:8443
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-gateway-in.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-gateway-in.oppo.com:8443
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-payapi-in.oppo.com
+[2021-06-21 15:18:47] [nameserver-detection:cloudflare] [dns] [info] http://opsg-payapi-in.oppo.com:8443
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://chat-support.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://cloud.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://eurwarranty.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://gkm.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://global.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://gray-push-intl.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://htsg-storeapi-sg.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://id.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://ieurwarranty.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://im.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://iwarranty.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://oldcms.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://par-sow-cms.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://push-intl.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:aws-route53] [dns] [info] https://sgp-sow-cms.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:cloudflare] [dns] [info] https://community.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:cloudflare] [dns] [info] https://opsg-api-in.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:cloudflare] [dns] [info] https://opsg-gateway-in.oppo.com
+[2021-06-21 15:18:48] [nameserver-detection:cloudflare] [dns] [info] https://opsg-payapi-in.oppo.com
+[2021-06-21 15:18:49] [nameserver-detection:aws-route53] [dns] [info] https://i.warranty.oppo.com
+[2021-06-21 15:18:49] [nameserver-detection:aws-route53] [dns] [info] https://security.oppo.com
+[2021-06-21 15:20:35] [shiro-detect] [http] [info] https://otrans.oppo.com
+[2021-06-21 15:21:51] [nginx-status] [http] [low] http://uat-www.oppo.com/nginx_status
+[2021-06-21 15:21:51] [nginx-status] [http] [low] http://uat-www.oppo.com:8080/nginx_status
+[2021-06-21 15:21:53] [nginx-status] [http] [low] https://gkm.oppo.com/nginx_status
+[2021-06-21 15:27:52] [dns-waf-detect:cloudflare] [dns] [info] http://community.oppo.com
+[2021-06-21 15:27:52] [dns-waf-detect:cloudflare] [dns] [info] http://community.oppo.com:8443
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://hd.oppo.com
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://hd.oppo.com:8443
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://hd.oppo.com:9100
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://m-insights.oppo.com
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://m-insights.oppo.com:3306
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://m-insights.oppo.com:444
+[2021-06-21 15:27:52] [dns-waf-detect:wangsu] [dns] [info] http://msec.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-api-in.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-api-in.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-gateway-in.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-gateway-in.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-payapi-in.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:cloudflare] [dns] [info] http://opsg-payapi-in.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://hd.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://m-insights.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://m-insights.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://msec.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://msec.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://msec.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://my.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://my.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://my.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://my.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:3000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:8080
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:81
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:88
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://myshop.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:3000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:8080
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:81
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:88
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://ogeek.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:3000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:8080
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:81
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:88
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://prehd.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:10000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:1026
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:2000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:3000
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:3306
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:4899
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:5666
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:6001
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:7070
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:8080
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:81
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:88
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:9100
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://securityfs.oppo.com:9999
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://store.oppo.com
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://store.oppo.com:444
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://store.oppo.com:8443
+[2021-06-21 15:27:53] [dns-waf-detect:wangsu] [dns] [info] http://store.oppo.com:9100
+[2021-06-21 15:27:54] [dns-waf-detect:cloudflare] [dns] [info] https://community.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:cloudflare] [dns] [info] https://opsg-api-in.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:cloudflare] [dns] [info] https://opsg-gateway-in.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:cloudflare] [dns] [info] https://opsg-payapi-in.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://hd.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://m-insights.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://msec.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://my.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://myshop.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://myshop.oppo.com:8443
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://ogeek.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://ogeek.oppo.com:8443
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://prehd.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://prehd.oppo.com:8443
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://securityfs.oppo.com
+[2021-06-21 15:27:54] [dns-waf-detect:wangsu] [dns] [info] https://store.oppo.com
+[2021-06-21 15:31:40] [aspx-debug-mode] [http] [info] https://pop.oppo.com/Foobar-debug.aspx
+[2021-06-21 15:32:26] [aem-default-get-servlet] [http] [low] http://code.oppo.com/.json/FNZ.png
+[2021-06-21 15:33:02] [basic-cors-misconfig] [http] [info] http://myshop.oppo.com
+[2021-06-21 15:33:02] [basic-cors-misconfig] [http] [info] http://myshop.oppo.com:3000
+[2021-06-21 15:33:02] [basic-cors-misconfig] [http] [info] http://myshop.oppo.com:8080
+[2021-06-21 15:33:02] [basic-cors-misconfig] [http] [info] http://myshop.oppo.com:81
+[2021-06-21 15:33:02] [basic-cors-misconfig] [http] [info] http://myshop.oppo.com:88
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://opsg-payapi-in.oppo.com
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://prehd.oppo.com
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://prehd.oppo.com:3000
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://prehd.oppo.com:8080
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://prehd.oppo.com:81
+[2021-06-21 15:33:03] [basic-cors-misconfig] [http] [info] http://prehd.oppo.com:88
+[2021-06-21 15:33:08] [basic-cors-misconfig] [http] [info] http://nps.oppo.com
+[2021-06-21 15:33:08] [basic-cors-misconfig] [http] [info] https://myshop.oppo.com
+[2021-06-21 15:33:08] [basic-cors-misconfig] [http] [info] https://myshop.oppo.com:8443
+[2021-06-21 15:33:09] [basic-cors-misconfig] [http] [info] https://opsg-payapi-in.oppo.com
+[2021-06-21 15:33:09] [basic-cors-misconfig] [http] [info] https://prehd.oppo.com
+[2021-06-21 15:33:10] [basic-cors-misconfig] [http] [info] https://nps.oppo.com
+[2021-06-21 15:33:10] [basic-cors-misconfig] [http] [info] https://prehd.oppo.com:8443
+[2021-06-21 15:33:10] [basic-cors-misconfig] [http] [info] https://store.oppo.com
+[2021-06-21 15:33:27] [aem-default-get-servlet] [http] [low] http://image.oppo.com/.json/FNZ.png
+[2021-06-21 15:33:32] [favicon-detection:microsoft-outlook] [http] [info] http://autodiscover.oppo.com/favicon.ico
+[2021-06-21 15:33:35] [favicon-detection:spring-boot] [http] [info] http://find.oppo.com/favicon.ico
+[2021-06-21 15:33:40] [favicon-detection:spring-boot] [http] [info] http://otrans.oppo.com/favicon.ico
+[2021-06-21 15:33:45] [favicon-detection:spring-boot] [http] [info] http://yihuan.oppo.com/favicon.ico
+[2021-06-21 15:33:46] [favicon-detection:solarwinds-serv-u-ftp-server] [http] [info] https://eftp.oppo.com/favicon.ico
+[2021-06-21 15:33:46] [favicon-detection:spring-boot] [http] [info] https://find.oppo.com/favicon.ico
+[2021-06-21 15:33:50] [favicon-detection:spring-boot] [http] [info] https://otrans.oppo.com/favicon.ico
+[2021-06-21 15:36:26] [aem-default-get-servlet] [http] [low] http://uat-www.oppo.com/.json/FNZ.png
+[2021-06-21 15:36:26] [aem-default-get-servlet] [http] [low] http://uat-www.oppo.com:8080/.json/FNZ.png
+[2021-06-21 15:37:18] [aem-default-get-servlet] [http] [low] https://code.oppo.com/.json/FNZ.css
+[2021-06-21 15:37:20] [aem-default-get-servlet] [http] [low] https://code.oppo.com/.json/FNZ.png
+[2021-06-21 15:37:36] [aem-default-get-servlet] [http] [low] https://events.oppo.com/.json/FNZ.css
+[2021-06-21 15:37:38] [aem-default-get-servlet] [http] [low] https://events.oppo.com/.json/FNZ.png
+[2021-06-21 15:37:39] [aem-default-get-servlet] [http] [low] https://events.oppo.com/.json/FNZ.ico
+[2021-06-21 15:38:26] [tech-detect:cloudflare] [http] [info] http://community.oppo.com
+[2021-06-21 15:38:26] [tech-detect:cloudflare] [http] [info] http://community.oppo.com:8443
+[2021-06-21 15:38:26] [tech-detect:nginx] [http] [info] http://cloud-test.oppo.com
+[2021-06-21 15:38:26] [tech-detect:nginx] [http] [info] http://eurwarranty.oppo.com
+[2021-06-21 15:38:27] [tech-detect:adobe-experience-manager] [http] [info] http://code.oppo.com
+[2021-06-21 15:38:27] [tech-detect:adobe-experience-manager] [http] [info] http://events.oppo.com
+[2021-06-21 15:38:27] [tech-detect:aem_cms] [http] [info] http://code.oppo.com
+[2021-06-21 15:38:27] [tech-detect:aem_cms] [http] [info] http://events.oppo.com
+[2021-06-21 15:38:27] [tech-detect:google-tag-manager] [http] [info] http://code.oppo.com
+[2021-06-21 15:38:27] [tech-detect:google-tag-manager] [http] [info] http://events.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://bdev-pre.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://bdev.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://business.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://career.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://cloud.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://code.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://events.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://find.yun.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://findv1.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://hd.oppo.com:444
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://hd.oppo.com:8443
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://hd.oppo.com:9100
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://id.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://ieurwarranty.oppo.com
+[2021-06-21 15:38:27] [tech-detect:nginx] [http] [info] http://im-api.oppo.com
+[2021-06-21 15:38:28] [tech-detect:adobe-experience-manager] [http] [info] http://image.oppo.com
+[2021-06-21 15:38:28] [tech-detect:aem_cms] [http] [info] http://image.oppo.com
+[2021-06-21 15:38:28] [tech-detect:awselb] [http] [info] http://icontact.exapi.oppo.com:443
+[2021-06-21 15:38:28] [tech-detect:awselb] [http] [info] http://isms.exapi.oppo.com:443
+[2021-06-21 15:38:28] [tech-detect:express] [http] [info] http://liveapi.oppo.com
+[2021-06-21 15:38:28] [tech-detect:google-tag-manager] [http] [info] http://image.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://fastsmtp.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://find.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://gkm.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://gray-push-intl.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://hd.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://i.theme.exapi.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://i.warranty.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://im.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://image.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://iwarranty.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://liveapi.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://m-insights.oppo.com
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://m-insights.oppo.com:3306
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://m-insights.oppo.com:444
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://m-insights.oppo.com:8443
+[2021-06-21 15:38:28] [tech-detect:nginx] [http] [info] http://m-insights.oppo.com:9100
+[2021-06-21 15:38:28] [tech-detect:swiper-slider] [http] [info] http://fastsmtp.oppo.com
+[2021-06-21 15:38:29] [tech-detect:awselb] [http] [info] http://o-doctor.oppo.com:443
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://bshop.oppo.com
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://global.oppo.com
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://imap.oppo.com
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://msec.oppo.com:444
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://msec.oppo.com:8443
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://msec.oppo.com:9100
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://my.oppo.com:444
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://my.oppo.com:8443
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://my.oppo.com:9100
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:444
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:9100
+[2021-06-21 15:38:29] [tech-detect:nginx] [http] [info] http://nps.oppo.com
+[2021-06-21 15:38:29] [tech-detect:swiper-slider] [http] [info] http://imap.oppo.com
+[2021-06-21 15:38:30] [tech-detect:cloudflare] [http] [info] http://opsg-api-in.oppo.com
+[2021-06-21 15:38:30] [tech-detect:cloudflare] [http] [info] http://opsg-api-in.oppo.com:8443
+[2021-06-21 15:38:30] [tech-detect:cloudflare] [http] [info] http://opsg-gateway-in.oppo.com:8443
+[2021-06-21 15:38:30] [tech-detect:cloudflare] [http] [info] http://opsg-payapi-in.oppo.com:8443
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://insights.oppo.com
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://msec.oppo.com
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://myshop.oppo.com
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:3000
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:8080
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:81
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://myshop.oppo.com:88
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://newds.oppo.com
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:444
+[2021-06-21 15:38:30] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:9100
+[2021-06-21 15:38:31] [aem-default-get-servlet] [http] [low] https://image.oppo.com/.json/FNZ.css
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://htsg-storeapi-sg.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://m.find.yun.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://my.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://note.yun.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:3000
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:8080
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:81
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com:88
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://par-sow-cms.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://pre-insights.oppo.com
+[2021-06-21 15:38:31] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:444
+[2021-06-21 15:38:32] [aem-default-get-servlet] [http] [low] https://image.oppo.com/.json/FNZ.png
+[2021-06-21 15:38:32] [tech-detect:aem_cms] [http] [info] http://oldcms.oppo.com
+[2021-06-21 15:38:32] [tech-detect:cloudflare] [http] [info] http://opsg-gateway-in.oppo.com
+[2021-06-21 15:38:32] [tech-detect:cloudflare] [http] [info] http://opsg-payapi-in.oppo.com
+[2021-06-21 15:38:32] [tech-detect:google-tag-manager] [http] [info] http://oldcms.oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://ogeek.oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://oldcms.oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prehd.oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:3000
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:8080
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:81
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:9100
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://prewww.oppo.com
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://securityfs.oppo.com:3306
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://securityfs.oppo.com:444
+[2021-06-21 15:38:32] [tech-detect:nginx] [http] [info] http://securityfs.oppo.com:8443
+[2021-06-21 15:38:33] [aem-default-get-servlet] [http] [low] https://image.oppo.com/.json/FNZ.ico
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://prehd.oppo.com:88
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://push-intl.oppo.com
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://securityfs.oppo.com
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://securityfs.oppo.com:9100
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://sgp-sow-cms.oppo.com
+[2021-06-21 15:38:33] [tech-detect:nginx] [http] [info] http://shop.oppo.com
+[2021-06-21 15:38:34] [tech-detect:akamai] [http] [info] http://uat-support.oppo.com
+[2021-06-21 15:38:34] [tech-detect:awselb] [http] [info] http://uc.oppo.com:443
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://prestore.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://push.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://security.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://smtp.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://sow-cms.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://store.oppo.com:444
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://store.oppo.com:8443
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://store.oppo.com:9100
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://ti.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://ti.oppo.com:443
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://uc.oppo.com
+[2021-06-21 15:38:34] [tech-detect:nginx] [http] [info] http://yihuan.oppo.com:443
+[2021-06-21 15:38:34] [tech-detect:swiper-slider] [http] [info] http://smtp.oppo.com
+[2021-06-21 15:38:35] [tech-detect:adobe-experience-manager] [http] [info] http://support.oppo.com
+[2021-06-21 15:38:35] [tech-detect:aem_cms] [http] [info] http://support.oppo.com
+[2021-06-21 15:38:35] [tech-detect:google-tag-manager] [http] [info] http://support.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://static.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://store-statics-id.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://store.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://support.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://uat-www.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://uat-www.oppo.com:8080
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://yunv2.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] http://yunv2.oppo.com:443
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] https://bdev-pre.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] https://bdev.oppo.com
+[2021-06-21 15:38:35] [tech-detect:nginx] [http] [info] https://career.oppo.com
+[2021-06-21 15:38:36] [tech-detect:adobe-experience-manager] [http] [info] https://code.oppo.com
+[2021-06-21 15:38:36] [tech-detect:adobe-experience-manager] [http] [info] https://events.oppo.com
+[2021-06-21 15:38:36] [tech-detect:aem_cms] [http] [info] https://code.oppo.com
+[2021-06-21 15:38:36] [tech-detect:aem_cms] [http] [info] https://events.oppo.com
+[2021-06-21 15:38:36] [tech-detect:cloudflare] [http] [info] https://community.oppo.com
+[2021-06-21 15:38:36] [tech-detect:google-tag-manager] [http] [info] https://code.oppo.com
+[2021-06-21 15:38:36] [tech-detect:google-tag-manager] [http] [info] https://events.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] http://sync.yun.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] http://uat-cms.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://bshop.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://chat-support.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://cloud.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://code.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://eurwarranty.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://events.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://find.oppo.com
+[2021-06-21 15:38:36] [tech-detect:nginx] [http] [info] https://find.yun.oppo.com
+[2021-06-21 15:38:37] [tech-detect:ant-design] [http] [info] https://fastsmtp.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] http://yihuan.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://cloud-test.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://fastsmtp.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://findv1.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://gkm.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://gray-push-intl.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://hd.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://i.warranty.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://id.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://ieurwarranty.oppo.com
+[2021-06-21 15:38:37] [tech-detect:nginx] [http] [info] https://im-api.oppo.com
+[2021-06-21 15:38:38] [tech-detect:adobe-experience-manager] [http] [info] https://image.oppo.com
+[2021-06-21 15:38:38] [tech-detect:aem_cms] [http] [info] https://image.oppo.com
+[2021-06-21 15:38:38] [tech-detect:express] [http] [info] https://liveapi.oppo.com
+[2021-06-21 15:38:38] [tech-detect:google-tag-manager] [http] [info] https://image.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://business.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://im.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://image.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://insights.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://iwarranty.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://liveapi.oppo.com
+[2021-06-21 15:38:38] [tech-detect:nginx] [http] [info] https://m-insights.oppo.com
+[2021-06-21 15:38:39] [tech-detect:cloudflare] [http] [info] https://opsg-api-in.oppo.com
+[2021-06-21 15:38:39] [tech-detect:cloudflare] [http] [info] https://opsg-gateway-in.oppo.com
+[2021-06-21 15:38:39] [tech-detect:nginx] [http] [info] https://imap.oppo.com
+[2021-06-21 15:38:39] [tech-detect:nginx] [http] [info] https://msec.oppo.com
+[2021-06-21 15:38:39] [tech-detect:swiper-slider] [http] [info] https://imap.oppo.com
+[2021-06-21 15:38:40] [tech-detect:cloudflare] [http] [info] https://opsg-payapi-in.oppo.com
+[2021-06-21 15:38:40] [tech-detect:nginx] [http] [info] https://htsg-storeapi-sg.oppo.com
+[2021-06-21 15:38:40] [tech-detect:nginx] [http] [info] https://m.find.yun.oppo.com
+[2021-06-21 15:38:40] [tech-detect:nginx] [http] [info] https://myshop.oppo.com
+[2021-06-21 15:38:40] [tech-detect:nginx] [http] [info] https://note.yun.oppo.com
+[2021-06-21 15:38:40] [tech-detect:nginx] [http] [info] https://par-sow-cms.oppo.com
+[2021-06-21 15:38:41] [tech-detect:aem_cms] [http] [info] https://oldcms.oppo.com
+[2021-06-21 15:38:41] [tech-detect:google-tag-manager] [http] [info] https://oldcms.oppo.com
+[2021-06-21 15:38:41] [tech-detect:microsoft-asp.net] [http] [info] https://pop.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://hio.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://myshop.oppo.com:8443
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://newds.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://nps.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://ogeek.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://ogeek.oppo.com:8443
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://oldcms.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://pop.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://pre-insights.oppo.com
+[2021-06-21 15:38:41] [tech-detect:nginx] [http] [info] https://securityfs.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] http://wx.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] https://prestore.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] https://push-intl.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] https://push.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] https://sgp-sow-cms.oppo.com
+[2021-06-21 15:38:42] [tech-detect:nginx] [http] [info] https://sow-cms.oppo.com
+[2021-06-21 15:38:43] [tech-detect:bootstrap] [http] [info] https://oim.oppo.com
+[2021-06-21 15:38:43] [tech-detect:lightbox] [http] [info] https://oim.oppo.com
+[2021-06-21 15:38:43] [tech-detect:nginx] [http] [info] https://otrans.oppo.com
+[2021-06-21 15:38:43] [tech-detect:nginx] [http] [info] https://prehd.oppo.com
+[2021-06-21 15:38:43] [tech-detect:nginx] [http] [info] https://prewww.oppo.com
+[2021-06-21 15:38:43] [tech-detect:nginx] [http] [info] https://security.oppo.com
+[2021-06-21 15:38:43] [tech-detect:nginx] [http] [info] https://smtp.oppo.com
+[2021-06-21 15:38:43] [tech-detect:swiper-slider] [http] [info] https://smtp.oppo.com
+[2021-06-21 15:38:44] [tech-detect:nginx] [http] [info] https://prehd.oppo.com:8443
+[2021-06-21 15:38:44] [tech-detect:nginx] [http] [info] https://static.oppo.com
+[2021-06-21 15:38:44] [tech-detect:nginx] [http] [info] https://store.oppo.com
+[2021-06-21 15:38:45] [tech-detect:nginx] [http] [info] https://sync.yun.oppo.com
+[2021-06-21 15:38:45] [tech-detect:nginx] [http] [info] https://wx.oppo.com
+[2021-06-21 15:42:59] [s3-detect] [http] [info] http://after-sales.address.oppo.com/%c0
+[2021-06-21 15:42:59] [s3-detect] [http] [info] http://after-sales.oppo.com/%c0
+[2021-06-21 15:42:59] [s3-detect] [http] [info] http://gkm-s3cdn-sg.oppo.com/%c0
+[2021-06-21 15:42:59] [s3-detect] [http] [info] http://gkm-s3cdn-sg.oppo.com:8080/%c0
+[2021-06-21 15:42:59] [s3-detect] [http] [info] http://ipics.oppo.com/%c0
+[2021-06-21 15:43:00] [s3-detect] [http] [info] http://insightsdl.oppo.com/%c0
+[2021-06-21 15:43:01] [s3-detect] [http] [info] http://preyihuandl.oppo.com/%c0
+[2021-06-21 15:43:01] [s3-detect] [http] [info] https://after-sales.address.oppo.com/%c0
+[2021-06-21 15:43:02] [s3-detect] [http] [info] http://yihuandl.oppo.com/%c0
+[2021-06-21 15:43:02] [s3-detect] [http] [info] https://after-sales.oppo.com/%c0
+[2021-06-21 15:43:02] [s3-detect] [http] [info] https://gkm-s3cdn-sg.oppo.com/%c0
+[2021-06-21 15:43:04] [s3-detect] [http] [info] https://insightsdl.oppo.com/%c0
+[2021-06-21 15:43:04] [s3-detect] [http] [info] https://ipics.oppo.com/%c0
+[2021-06-21 15:43:05] [s3-detect] [http] [info] http://dsfs.oppo.com/%c0
+[2021-06-21 15:43:05] [s3-detect] [http] [info] https://preyihuandl.oppo.com/%c0
+[2021-06-21 15:46:36] [tomcat-version-detect:version] [http] [info] https://opsg-payapi-in.oppo.com/something_not_existing_ [Apache Tomcat/8.5.23]
+[2021-06-21 15:56:52] [mx-service-detector:Office 365] [dns] [info] http://oppo.com
+[2021-06-21 15:56:52] [mx-service-detector:Office 365] [dns] [info] https://oppo.com
