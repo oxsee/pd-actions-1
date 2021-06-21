@@ -73,11 +73,7 @@ jobs:
         with:
           urls: output/active_urls.txt
           output: output/nuclei_output.txt
-
-      - name: Notify Alerts
-        run: |
-          notify -slack -slack-webhook-url ${{ secrets.SLACK_WEBHOOK }} < output/nuclei_output.txt
-
+          
       - name: Sorting the output results
         run: |
           find output -type f -exec sort {} -o {} \;
