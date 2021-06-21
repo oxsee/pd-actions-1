@@ -94,7 +94,7 @@ jobs:
 
       - name: Commit results to Github
         run: |
-          git config --local user.email "sandeep@projectdiscovery.io"
+          git config --local user.email "sandeep@projectdiscover.io"
           git config --global user.name "projectdiscovery"
           git commit -m "PD-Actions report" -a --allow-empty
 
