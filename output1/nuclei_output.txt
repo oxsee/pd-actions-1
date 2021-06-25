@@ -1,0 +1,102 @@
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://gw-pro-prod.wickr.com [Apache]
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://gw-me-prod.wickr.com [Apache]
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://incyte.wickr.com [Apache]
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://messaging-me-prod.wickr.com [Apache]
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://amazon.wickr.com [Apache]
+[2021-06-25 12:34:48] [apache-version-detect] [http] [info] https://messaging-prod.wickr.com [Apache]
+[2021-06-25 12:34:48] [nginx-version] [http] [info] https://wickr.com [nginx]
+[2021-06-25 12:34:49] [generic-tokens] [http] [info] https://status.wickr.com [Key = columnInfo,Token = urlParams,key=6LdTS8AUAAAAAOIbCKoCAP4LQku1olYGrywPTaZz]
+[2021-06-25 12:35:04] [fortinet-fortigate-panel] [http] [info] https://jss.wickr.com/remote/login
+[2021-06-25 12:36:29] [s3-detect] [http] [info] https://register.wickr.com/%c0
+[2021-06-25 12:36:34] [wordpress-xmlrpc-file] [http] [info] https://wickr.com/xmlrpc.php
+[2021-06-25 12:36:34] [wordpress-xmlrpc-file] [http] [info] https://www.wickr.com/xmlrpc.php
+[2021-06-25 12:36:50] [wordpress-panel] [http] [info] https://wickr.com/wp-login.php
+[2021-06-25 12:36:50] [wordpress-panel] [http] [info] https://www.wickr.com/wp-login.php
+[2021-06-25 12:37:19] [package-json] [http] [info] http://partners.wickr.com/package-lock.json
+[2021-06-25 12:37:20] [package-json] [http] [info] https://partners.wickr.com/package-lock.json
+[2021-06-25 12:37:20] [aspx-debug-mode] [http] [info] http://partners.wickr.com/Foobar-debug.aspx
+[2021-06-25 12:37:20] [aspx-debug-mode] [http] [info] https://partners.wickr.com/Foobar-debug.aspx
+[2021-06-25 12:38:44] [tech-detect:cloudflare] [http] [info] http://support.wickr.com:8443
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://amazon.wickr.com
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://gw-pro-prod.wickr.com
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://gw-me-prod.wickr.com
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://incyte.wickr.com
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://messaging-me-prod.wickr.com
+[2021-06-25 12:38:44] [tech-detect:apache] [http] [info] https://messaging-prod.wickr.com
+[2021-06-25 12:38:44] [tech-detect:nginx] [http] [info] https://admin-prod.wickr.com
+[2021-06-25 12:38:44] [tech-detect:google-tag-manager] [http] [info] https://me-download.wickr.com
+[2021-06-25 12:38:44] [tech-detect:express] [http] [info] https://me-download.wickr.com
+[2021-06-25 12:38:44] [tech-detect:angular] [http] [info] https://me-download.wickr.com
+[2021-06-25 12:38:44] [tech-detect:nginx] [http] [info] https://countly.wickr.com
+[2021-06-25 12:38:44] [tech-detect:google-tag-manager] [http] [info] https://pro-download.wickr.com
+[2021-06-25 12:38:44] [tech-detect:express] [http] [info] https://pro-download.wickr.com
+[2021-06-25 12:38:44] [tech-detect:angular] [http] [info] https://pro-download.wickr.com
+[2021-06-25 12:38:45] [tech-detect:cloudflare] [http] [info] http://support.wickr.com
+[2021-06-25 12:38:45] [tech-detect:cloudflare] [http] [info] https://support.wickr.com
+[2021-06-25 12:38:46] [tech-detect:microsoft-asp.net] [http] [info] https://partners.wickr.com
+[2021-06-25 12:38:46] [tech-detect:bootstrap] [http] [info] https://partners.wickr.com
+[2021-06-25 12:38:46] [tech-detect:ms-iis] [http] [info] https://partners.wickr.com
+[2021-06-25 12:38:46] [tech-detect:microsoft-asp.net] [http] [info] http://partners.wickr.com
+[2021-06-25 12:38:46] [tech-detect:bootstrap] [http] [info] http://partners.wickr.com
+[2021-06-25 12:38:46] [tech-detect:ms-iis] [http] [info] http://partners.wickr.com
+[2021-06-25 12:38:47] [tech-detect:nginx] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:elementor] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:wordpress] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:google-tag-manager] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:font-awesome] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:wp-rocket] [http] [info] https://wickr.com
+[2021-06-25 12:38:47] [tech-detect:google-tag-manager] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:47] [tech-detect:font-awesome] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:47] [tech-detect:wp-rocket] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:47] [tech-detect:nginx] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:47] [tech-detect:elementor] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:47] [tech-detect:wordpress] [http] [info] https://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:google-tag-manager] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:font-awesome] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:wp-rocket] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:nginx] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:elementor] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:wordpress] [http] [info] http://wickr.com
+[2021-06-25 12:38:52] [tech-detect:google-tag-manager] [http] [info] http://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:font-awesome] [http] [info] http://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:wp-rocket] [http] [info] http://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:nginx] [http] [info] http://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:elementor] [http] [info] http://www.wickr.com
+[2021-06-25 12:38:52] [tech-detect:wordpress] [http] [info] http://www.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://pro-download.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://gw-me-prod.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:nsone] [dns] [info] http://enterprise.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://messaging-prod.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://messaging-me-prod.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://jss.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://amazon.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://countly.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:cloudflare] [dns] [info] http://www.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://status.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://register.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://fed.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://support.wickr.com:8443
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://gw-pro-prod.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:nsone] [dns] [info] https://enterprise.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://me-download.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://me-download.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://register.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://support.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://support.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://incyte.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] https://admin-prod.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://pro-download.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:aws-route53] [dns] [info] http://status.wickr.com
+[2021-06-25 12:39:18] [nameserver-detection:cloudflare] [dns] [info] https://www.wickr.com
+[2021-06-25 12:44:05] [dns-waf-detect:cloudflare] [dns] [info] https://www.wickr.com
+[2021-06-25 12:44:05] [dns-waf-detect:cloudflare] [dns] [info] http://www.wickr.com
+[2021-06-25 12:46:53] [mx-service-detector:Google Apps] [dns] [info] http://wickr.com
+[2021-06-25 12:46:53] [mx-service-detector:Google Apps] [dns] [info] https://wickr.com
+[2021-06-25 12:47:02] [cname-service-detector:github] [dns] [info] https://enterprise.wickr.com
+[2021-06-25 12:47:02] [cname-service-detector:zendesk] [dns] [info] http://support.wickr.com:8443
+[2021-06-25 12:47:02] [cname-service-detector:github] [dns] [info] http://enterprise.wickr.com
+[2021-06-25 12:47:02] [cname-service-detector:zendesk] [dns] [info] https://support.wickr.com
+[2021-06-25 12:47:02] [cname-service-detector:zendesk] [dns] [info] http://support.wickr.com
+[2021-06-25 12:51:03] [favicon-detection:fortinet-forticlient] [http] [info] https://jss.wickr.com/favicon.ico
