@@ -44,17 +44,17 @@ jobs:
 
       - name: Running SubFinder for passive DNS enumeration
         run: |
-          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o output3/passive_subdomains.txt
+          subfinder -dL input/domains.txt -config config/subfinder-config.yaml -o output4/passive_subdomains.txt
         shell: bash
 
       - name: Running dnsx for valid DNS filtering 
         run: |
-          dnsx -l output3/passive_subdomains.txt -t 50 | tee output3/active_subdomains.txt
+          dnsx -l output4/passive_subdomains.txt -t 50 | tee output4/active_subdomains.txt
         shell: bash
 
       - name: Running naabu to check top 100 ports
         run: |
-          naabu -iL output3/active_subdomains.txt  -rate 10000 -top-ports 100 | tee output3/active_ports.txt
+          naabu -iL output4/active_subdomains.txt  -rate 10000 -top-ports 100 | tee output4/active_ports.txt
         shell: bash
 
 #      For running vulnerability assessment of cloud assets.
@@ -65,14 +65,14 @@ jobs:
 
       - name: Running httpx for HTTP webservers probbing
         run: |
-          httpx -l output3/active_ports.txt | tee output3/active_urls.txt
+          httpx -l output4/active_ports.txt | tee output4/active_urls.txt
         shell: bash
 
       - name: Nuclei Scan
         uses: projectdiscovery/nuclei-action@main
         with:
-          urls: output3/active_urls.txt
-          output: output3/nuclei_output.txt
+          urls: output4/active_urls.txt
+          output: output4/nuclei_output.txt
           
       - name: Sorting the output results
         run: |
@@ -81,11 +81,11 @@ jobs:
 
       - name: Create local changes
         run: |
-          git add output3/passive_subdomains.txt
-          git add output3/active_subdomains.txt
-          git add output3/active_ports.txt
-          git add output3/active_urls.txt
-          git add output3/nuclei_output.txt
+          git add output4/passive_subdomains.txt
+          git add output4/active_subdomains.txt
+          git add output4/active_ports.txt
+          git add output4/active_urls.txt
+          git add output4/nuclei_output.txt
 #          git add output/cloud_hosts.txt
 
       - name: Commit results to Github
